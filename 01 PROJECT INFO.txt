@@ -10,8 +10,4 @@
 
 For Admin Account, please create one with superuser!
 python manage.py create superuser
-anush password-test
-login to admin pannel add products
-user sign up 
- 1user pas- 1user
- user login
+
